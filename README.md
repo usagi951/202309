@@ -4,4 +4,4 @@
 
 # 架設的網頁
 
-![image]([picture or gif url](https://usagi951.github.io/202309/usagi951.github.io_202309_.png))https://usagi951.github.io/202309/usagi951.github.io_202309_.png))
+![image](https://usagi951.github.io/202309/usagi951.github.io_202309_.png)
