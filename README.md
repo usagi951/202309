@@ -1,3 +1,5 @@
+# 個人履歷
+![image](https://github.com/usagi951/202309/blob/main/usagi951.github.io_202309_resume.html.png)
 # 架設的主頁
 ![image](https://github.com/usagi951/202309/blob/main/usagi951.github.io_202309_.png)
 
